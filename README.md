@@ -1,4 +1,4 @@
-# Python Pizza Berlin 2019
+# 🍕 Python Pizza Berlin 2019 🍕
 
 ## Inspecting CPython Bytecode in JupyterLab
 
