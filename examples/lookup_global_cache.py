@@ -1,9 +1,10 @@
 import math
 
-def naive():
+def compute():
     total = 0
+    sin = math.sin
     for x in range(1000):
-        total += math.sin(x)
+        total += sin(x)
     return total
 
-naive()
+compute()
