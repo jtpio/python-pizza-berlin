@@ -1,13 +1,13 @@
 import math
 
-def naive():
+def compute():
     total = 0
     for x in range(1000):
         total += math.sin(x)
     return total
 
 
-def cache():
+def compute_cache():
     sin = math.sin
     total = 0
     for x in range(1000):

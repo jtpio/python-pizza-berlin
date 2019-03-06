@@ -9,3 +9,10 @@ Showcasing how to inspect CPython Bytecode in JupyterLab with the [jupyterlab-py
 The presentation is available online with Binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jtpio/pizza-bytecode/master?urlpath=lab/tree/presentation.ipynb)
+
+
+## Screencast
+
+A screencast is available on [YouTube](https://www.youtube.com/watch?v=EyfrypDXrFM).
+
+[![Exploring CPython Bytecode in JupyterLab](https://img.youtube.com/vi/EyfrypDXrFM/0.jpg)](https://www.youtube.com/watch?v=EyfrypDXrFM)
