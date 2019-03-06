@@ -13,6 +13,6 @@ The presentation is available online with Binder:
 
 ## Screencast
 
-A screencast is available on [Youtube](https://www.youtube.com/watch?v=EyfrypDXrFM).
+A screencast is available on [YouTube](https://www.youtube.com/watch?v=EyfrypDXrFM).
 
 [![Exploring CPython Bytecode in JupyterLab](https://img.youtube.com/vi/EyfrypDXrFM/0.jpg)](https://www.youtube.com/watch?v=EyfrypDXrFM)
